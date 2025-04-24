@@ -6,7 +6,7 @@
 
 ## 🧠 À propos
 
-**Taleva Sound** est un lecteur audio de bureau développé avec **Python** et **PyQt5/PyQt6**. Il offre une interface moderne et intuitive pour lire des fichiers audio, gérer des playlists, et explorer votre bibliothèque musicale locale.
+**Taleva Sound** est un lecteur audio de bureau développé avec **Python** et **PyQt5**. Il offre une interface moderne et intuitive pour lire des fichiers audio, gérer des playlists, et explorer votre bibliothèque musicale locale.
 
 ---
 
