@@ -30,7 +30,7 @@
 ## 🚀 Installation
 
 ### 🔹 Prérequis :
-- Python 3.x
+- Python 3
 - pip
 
 ### 🔹 Étapes :
