@@ -4,30 +4,30 @@
 
 ---
 
-## 🧠 À propos
+## À propos
 
 **Taleva Sound** est un lecteur audio de bureau développé avec **Python** et **PyQt5**. Il offre une interface moderne et intuitive pour lire des fichiers audio, gérer des playlists, et explorer votre bibliothèque musicale locale.
 
 ---
 
-## 🛠️ Fonctionnalités
+## Fonctionnalités
 
-- 🎶 Lecture de fichiers MP3, WAV, etc.
-- 🖱️ Interface graphique avec PyQt
-- ⏯️ Contrôles : Play / Pause / Stop / Suivant / Précédent
-- 🧾 Chargement et affichage des playlists
-- 🔊 Réglage du volume
+- Lecture de fichiers MP3, WAV, etc.
+- Interface graphique avec PyQt
+- Contrôles : Play / Pause / Stop / Suivant / Précédent
+- Chargement et affichage des playlists
+- Réglage du volume
 ---
 
-## 💻 Technologies utilisées
+## Technologies utilisées
 
-- 🐍 **Python 3**
-- 📦 **PyQt5**
-- 🎧 **QMediaPlayer** 
+- **Python 3**
+- **PyQt5**
+- **QMediaPlayer** 
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### 🔹 Prérequis :
 - Python 3
